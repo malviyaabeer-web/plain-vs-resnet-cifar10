@@ -129,7 +129,7 @@ This helps:
 |---------|---------:|
 | Baseline CNN | ~66% |
 | Plain-20 | ~74% |
-| ResNet-20 | ~78% |
+| ResNet-20 | ~80% |
 
 The ResNet architecture consistently outperformed the equivalent Plain Network, demonstrating the effectiveness of residual learning.
 
